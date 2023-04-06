@@ -23,13 +23,14 @@ const Info = styled.div`
 const Container = styled.div`
   flex: 1;
   margin: 5px;
-  min-width: 200px;
+  min-width: 280px;
   height: 350px;
   display: flex;
   align-items: center;
   justify-content: center;
   border-color: #f5fbfb;
   position: relative;
+
   &:hover ${Info} {
     opacity: 1;
   }
@@ -39,7 +40,7 @@ const Circle = styled.div`
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border-color: white;
+  background-color: white;
   position: absolute;
 `;
 const Image = styled.img`
@@ -47,7 +48,6 @@ const Image = styled.img`
   z-index: 2;
 `;
 const Icon = styled.div`
-  opacity: 0;
   width: 40px;
   height: 40px;
   border-radius: 50%;

@@ -1,7 +1,7 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://media.istockphoto.com/id/1154649405/photo/concept-of-shopping-purchases-and-sales-of-happy-young-girl-with-packages-on-yellow-background.jpg?s=612x612&w=0&k=20&c=GU5qT3g9M7Om23y02KfFUzMup8_mkQPa6MkBQmWSVyY=",
+    img: "https://img.freepik.com/free-photo/full-length-portrait-happy-excited-girl-bright-colorful-clothes-holding-shopping-bags-while-standing-showing-peace-gesture-isolated_231208-5946.jpg?w=1060&t=st=1680769482~exp=1680770082~hmac=91d4a7c857ba1fdd721822acd5b558d3fb15e36f84bc885e22b0716bf96fcb05",
     title: "SUMMER SALE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "f5fafd",
